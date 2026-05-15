@@ -242,11 +242,11 @@ font-size:30px;
 
 <div class="sidebar">
 
-<a href="#"><i class="fa-solid fa-house"></i></a>
-<a href="#"><i class="fa-solid fa-chart-line"></i></a>
-<a href="#"><i class="fa-solid fa-magnifying-glass"></i></a>
-<a href="#"><i class="fa-solid fa-link"></i></a>
-<a href="#"><i class="fa-solid fa-gear"></i></a>
+<a href="https://devendratools.blogspot.com/"><i class="fa-solid fa-house"></i></a>
+<a href="https://devendratools.blogspot.com/2026/05/anchor-text-generator.html"><i class="fa-solid fa-chart-line"></i></a>
+<a href="https://devendratools.blogspot.com/2026/02/free-keyword-research-tool-find-right.html"><i class="fa-solid fa-magnifying-glass"></i></a>
+<a href="https://devendratools.blogspot.com/2025/02/blog-post.html"><i class="fa-solid fa-link"></i></a>
+<a href="https://devendratools.blogspot.com/2025/03/youtube-5-10-function.html"><i class="fa-solid fa-gear"></i></a>
 
 </div>
 
@@ -391,7 +391,7 @@ Check title tag length and keyword placement for maximum impact.
 Review meta titles and descriptions to improve click-through rates
 and search engine visibility for every web page.
 </p>
-<a href="#">Read More</a>
+<a href="https://devendratools.blogspot.com/2025/02/free-meta-tags-generator-easily.html">Read More</a>
 </div>
 
 <div class="tool-box">
@@ -410,7 +410,7 @@ Build custom robots.txt files to guide crawlers & build user trust and improve s
 Check mobile responsiveness and usability across devices
 to ensure better mobile SEO and user experience.
 </p>
-<a href="#">Read More</a>
+<a href="https://devendratools.blogspot.com/2026/05/mobile-responsive-checker-tool.html">Read More</a>
 </div>
 
 <div class="tool-box">
@@ -430,17 +430,17 @@ search engine crawling of your website pages.
 Detect 301 and 302 redirects to optimize URL structure
 and maintain SEO link authority properly.
 </p>
-<a href="#">Read More</a>
+<a href="https://devendratools.blogspot.com/2026/05/redirect-checker-tool-seo-friendly.html">Read More</a>
 </div>
 
 <div class="tool-box">
 <div class="icon"><i class="fa-solid fa-image"></i></div>
 <h3>Image Alt Tool</h3>
 <p>
-Analyze image ALT tags and accessibility features
+ image ALT tags and accessibility features
 to improve image SEO and organic search visibility.
 </p>
-<a href="#">Read More</a>
+<a href="https://devendratools.blogspot.com/2026/05/image-alt-tags-generator-tool.html">Read More</a>
 </div>
 
 <div class="tool-box">
@@ -450,7 +450,7 @@ to improve image SEO and organic search visibility.
 Find and repair broken internal or external links
 that negatively affect user experience and rankings.
 </p>
-<a href="#">Read More</a>
+<a href="https://devendratools.blogspot.com/2026/05/link-converter-text-to-hyper-link.html">Read More</a>
 </div>
 
 <div class="tool-box">
@@ -460,7 +460,7 @@ that negatively affect user experience and rankings.
 Check server response times and hosting information
 to improve speed optimization and uptime reliability.
 </p>
-<a href="#">Read More</a>
+<a href="https://devendratools.blogspot.com/2026/05/hosting-checker-tool.html">Read More</a>
 </div>
 
 <div class="tool-box">
@@ -470,7 +470,7 @@ to improve speed optimization and uptime reliability.
 Create structured data markup and schema snippets
 for rich results and enhanced Google visibility.
 </p>
-<a href="#">Read More</a>
+<a href="https://devendratools.blogspot.com/2026/05/free-schema-generator-tool.html">Read More</a>
 </div>
 
 <div class="tool-box">
@@ -518,7 +518,7 @@ issues that may reduce website search rankings.
 Validate website HTML structure and identify coding
 errors affecting SEO and website performance quality.
 </p>
-<a href="#">Read More</a>
+<a href="https://devendratools.blogspot.com/2026/05/html-validator-tool.html">Read More</a>
 </div>
 
 <div class="tool-box">
@@ -538,7 +538,7 @@ metrics required for better Google ranking performance.
 Optimize local business visibility and improve rankings
 for location-based Google search results and maps.
 </p>
-<a href="#">Read More</a>
+<a href="https://devendratools.blogspot.com/2025/02/ai-detector-free.html">Read More</a>
 </div>
 
 <div class="tool-box">
