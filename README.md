@@ -237,7 +237,6 @@ font-size:30px;
 
 </style>
 </head>
-<meta name="google-site-verification" content="mxrhzbfLz6KoqRlFAW4BswxFnHm5mhiPoWZPzxPpHNY" />
 <body>
 
 <!-- FLOATING SIDEBAR -->
